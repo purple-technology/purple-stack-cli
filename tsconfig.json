@@ -3,7 +3,7 @@
 		"lib": ["es2020"],
 		"types": ["node", "jest"],
 		"moduleResolution": "node",
-		"module": "es6",
+		"module": "CommonJS",
 		"sourceRoot": "src",
 		"noUnusedLocals": true,
 		"declaration": true,
